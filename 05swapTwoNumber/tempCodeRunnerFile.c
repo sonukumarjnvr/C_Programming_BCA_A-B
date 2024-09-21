@@ -1,0 +1,1 @@
+ printf("after swapping values are: a : %d and b : %d\n",a,b);
